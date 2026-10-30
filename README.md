@@ -1,9 +1,10 @@
 # open-emotion
 
-Facial-expression classification CNN using TensorFlow and Keras. Trained on AffectNet and FER2013 data. Live webcam demo.
+- Facial-expression classification CNN using TensorFlow and Keras
+- Trained on AffectNet and FER2013 data
+- Live webcam demo
 
-ABSTRACT
------
+# Abstract
 
 Hotels are a critical site for human trafficking operations, and we lack front-line staff
 trained to identify signs of abuse. Victims may display fleeting micro-expressions of distress, yet
